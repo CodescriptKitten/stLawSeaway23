@@ -45,8 +45,10 @@ table {
 }
 
 nav {
+	margin: 0.5em 0;
 	display: block;
 	background-color: #69A7BF;
+	width: 100%;
 }
 
 nav ul {
@@ -55,18 +57,32 @@ nav ul {
 
 nav ul li {
 	display: inline-block;
-	font-size: 2em;
+	font-size: 1.5em;
 	font-family: 'Martel', serif;
 	padding: 0.2em 1em;
 }
 
+nav ul li a:link {
+	text-decoration: none;
+}
+nav ul li a:hover {
+	text-decoration: none;
+}
+nav ul li a:active {
+	text-decoration: none;
+}
+nav ul li a:visited {
+	text-decoration: none;
+}
+
 #headerNav {
+	margin: 0;
 	position: fixed;
 	display: block;
 }
 
 header {
-	
+	padding-top: 2.8em;
 }
 
 header img {
@@ -74,7 +90,7 @@ header img {
 }
 
 main {
-	
+	margin: 2em;
 }
 
 footer {
