@@ -29,19 +29,19 @@ body{
 }
 
 h1 {
-
+    font-family: 'EB Garamond', serif;
 }
 
 h2 {
-
+    font-family: 'EB Garamond', serif;
 }
 
 blockquote {
-
+    font-family: 'Martel', serif;
 }
 
 table {
-    
+    font-family: 'Martel', serif;
 }
 
 nav {
@@ -59,7 +59,7 @@ nav ul li {
 	display: inline-block;
 	font-size: 1.5em;
 	font-family: 'Martel', serif;
-	padding: 0.2em 1em;
+	padding: 0.2em 2em;
 }
 
 nav ul li a:link {
@@ -83,10 +83,12 @@ nav ul li a:visited {
 
 header {
 	padding-top: 2.8em;
+    background-image: url("../images/slsHeroImage.jpg");
 }
 
-header img {
-	margin: 0 auto;
+header h1 {
+    padding: 2em;
+    background-color:#1E5959aa;
 }
 
 main {
@@ -95,6 +97,10 @@ main {
 
 main img {
     margin: 1em;
+}
+
+p {
+    font-family: 'Mukta', sans-serif;
 }
 
 footer {
