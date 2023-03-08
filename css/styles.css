@@ -90,8 +90,9 @@ header {
 }
 
 header h1 {
-    padding: 2em;
+    padding: 1em;
     background-color:#1E5959aa;
+    color: #D5E7F2;
 }
 
 main {
@@ -107,7 +108,7 @@ p {
 }
 
 footer {
-	margin-top: 2em
+	margin: 2em 0;
 }
 
 footer p {
