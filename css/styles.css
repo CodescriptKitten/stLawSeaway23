@@ -6,7 +6,7 @@ Sky Grey - #D5E7F2
 Far Tree Blue - #69A7BF
 Cargo Green - #1E5959
 Verdant Green - #9FA668
-Cargo Salmon #D98989
+Cargo Salmon - #D98989
 
 Fonts:
 
@@ -64,15 +64,18 @@ nav ul li {
 
 nav ul li a:link {
 	text-decoration: none;
+    color: #1E5959;
 }
 nav ul li a:hover {
 	text-decoration: none;
+    color: #9FA668;
 }
 nav ul li a:active {
 	text-decoration: none;
 }
 nav ul li a:visited {
 	text-decoration: none;
+    color: #D98989;
 }
 
 #headerNav {
