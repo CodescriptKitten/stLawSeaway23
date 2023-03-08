@@ -1,0 +1,86 @@
+/* CSS Document 
+
+Colors:
+
+Sky Grey - #D5E7F2
+Far Tree Blue - #69A7BF
+Cargo Green - #1E5959
+Verdant Green - #9FA668
+Cargo Salmon #D98989
+
+Fonts:
+
+font-family: 'EB Garamond', serif;
+font-family: 'Martel', serif;
+font-family: 'Mukta', sans-serif;
+
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&family=Martel:wght@200;400;700&family=Mukta:wght@200;400;700&display=swap');
+
+*, *:after {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    background-color: #1E5959;
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+blockquote {
+
+}
+
+table {
+    
+}
+
+nav {
+	display: block;
+	background-color: #69A7BF;
+}
+
+nav ul {
+	list-style-type: none;
+}
+
+nav ul li {
+	display: inline-block;
+	font-size: 2em;
+	font-family: 'Martel', serif;
+	padding: 0.2em 1em;
+}
+
+#headerNav {
+	position: fixed;
+	display: block;
+}
+
+header {
+	
+}
+
+header img {
+	margin: 0 auto;
+}
+
+main {
+	
+}
+
+footer {
+	
+}
+
+footer p {
+	text-align: center;
+}
