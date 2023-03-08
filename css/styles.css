@@ -93,10 +93,15 @@ main {
 	margin: 2em;
 }
 
+main img {
+    margin: 1em;
+}
+
 footer {
-	
+	margin-top: 2em
 }
 
 footer p {
 	text-align: center;
 }
+
