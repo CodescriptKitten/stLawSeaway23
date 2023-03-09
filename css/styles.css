@@ -7,6 +7,7 @@ Far Tree Blue - #69A7BF
 Cargo Green - #1E5959
 Verdant Green - #9FA668
 Cargo Salmon - #D98989
+Salmon Dark - #441616
 
 Fonts:
 
@@ -75,7 +76,7 @@ nav ul li a:active {
 }
 nav ul li a:visited {
 	text-decoration: none;
-    color: #D98989;
+    color: #441616;
 }
 
 #headerNav {
@@ -87,6 +88,7 @@ nav ul li a:visited {
 header {
 	padding-top: 2.8em;
     background-image: url("../images/slsHeroImage.jpg");
+	min-height: 20%;
 }
 
 header h1 {
