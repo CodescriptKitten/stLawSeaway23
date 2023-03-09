@@ -107,7 +107,12 @@ main h2 {
 
 main img {
     margin: 1em;
-	max-width: 15%;
+	max-width: 25%;
+	float: right;
+}
+
+.leftFlt {
+	
 }
 
 main ul, main ol {
