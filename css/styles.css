@@ -69,7 +69,7 @@ nav ul li a:link {
 }
 nav ul li a:hover {
 	text-decoration: none;
-    color: #9FA668;
+    color: #fff;
 }
 nav ul li a:active {
 	text-decoration: none;
@@ -107,6 +107,7 @@ main img {
 
 p {
     font-family: 'Mukta', sans-serif;
+	color: #9FA668
 }
 
 footer {
