@@ -88,7 +88,7 @@ nav ul li a:visited {
 header {
 	padding-top: 2.8em;
     background-image: url("../images/slsHeroImage.jpg");
-	min-height: 200px;
+	min-height: 400px;
 }
 
 header h1 {
@@ -101,13 +101,26 @@ main {
 	margin: 2em;
 }
 
+main h2 {
+	color: #9FA668;
+}
+
 main img {
     margin: 1em;
+	max-width: 15%;
+}
+
+main ul, main ol {
+	margin-left: 1em;
 }
 
 p {
     font-family: 'Mukta', sans-serif;
-	color: #9FA668
+	color: #fff;
+}
+
+.btn {
+	border-radius: 3px;
 }
 
 footer {
