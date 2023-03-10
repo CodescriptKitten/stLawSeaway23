@@ -6,6 +6,7 @@ Sky Grey - #D5E7F2
 Far Tree Blue - #69A7BF
 Cargo Green - #1E5959
 Verdant Green - #9FA668
+Very Adapted Verdant Green - #F0F1E4
 Cargo Salmon - #D98989
 Salmon Dark - #441616
 
@@ -97,7 +98,7 @@ header {
 	padding-top: 2.9em;
     background-image: url("../images/slsHeroImage.jpg");
 	min-height: 400px;
-	background-size: auto;
+	background-size: cover;
 }
 
 header h1 {
@@ -112,7 +113,7 @@ main {
 }
 
 main h2 {
-	color: #9FA668;
+	color: #F0F1E4;
 }
 
 main img {
