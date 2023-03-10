@@ -39,13 +39,16 @@ h2 {
 	font-size: 2em;
 }
 
+
 blockquote {
     font-family: 'Martel', serif;
+	color: #fff;
 }
 
 table {
     font-family: 'Martel', serif;
 	border-color: #fff;
+	color: #fff;
 	border-style: double;
 	border-width: 3px;
 }
@@ -63,7 +66,7 @@ nav ul {
 
 nav ul li {
 	display: inline-block;
-	font-size: 1.5em;
+	font-size: 1.6em;
 	font-family: 'Martel', serif;
 	padding: 0.2em 2em;
 }
@@ -91,19 +94,21 @@ nav ul li a:visited {
 }
 
 header {
-	padding-top: 2.8em;
+	padding-top: 2.9em;
     background-image: url("../images/slsHeroImage.jpg");
 	min-height: 400px;
+	background-size: auto;
 }
 
 header h1 {
-    padding: 1em;
+    padding: 1.2em;
     background-color:#1E5959aa;
     color: #D5E7F2;
 }
 
 main {
 	margin: 2em;
+	min-height: 400px
 }
 
 main h2 {
@@ -118,7 +123,7 @@ main img {
 }
 
 .leftFlt {
-
+	float: left;
 }
 
 main ul, main ol {
@@ -131,7 +136,7 @@ main ul, main ol {
 p {
     font-family: 'Mukta', sans-serif;
 	color: #fff;
-	font-size: 2em;
+	font-size: 1.8em;
 }
 
 .btn {
